@@ -8,4 +8,4 @@ then
               echo "\n"
 fi
 
-kubectl logs -f $(kubectl get pods -n devops-test --no-headers -o custom-columns=":metadata.name" | grep $1) -n NAMESPACE | grep 'ERROR'
+kubectl logs -f $(kubectl get pods -n NAMESPACE --no-headers -o custom-columns=":metadata.name" | grep $1) -n NAMESPACE | grep 'ERROR'
