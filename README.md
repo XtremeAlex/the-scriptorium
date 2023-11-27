@@ -1,2 +1,6 @@
+<div style="text-align:center">
+<img width="720" alt="the-scriptorium" src="_img/the-scriptorium.png">
+</div>
+
 # The-Scriptorium
-Il repository conterrà script che attività ripetitive.
+Il repository conterrà script che elide attività ripetitive.
