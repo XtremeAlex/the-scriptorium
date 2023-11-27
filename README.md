@@ -3,4 +3,4 @@
 </div>
 
 # The-Scriptorium
-Il repository conterrà script che elide attività ripetitive.
+Il repository conterrà script che elidono attività ripetitive.
